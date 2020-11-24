@@ -1,1 +1,1 @@
-woodwallglass 0 14 -7
+spiritBowl 0 0 1

@@ -1,1 +1,1 @@
-woodwallglass 0 15 -12
+spiritBucket 0 0 1
