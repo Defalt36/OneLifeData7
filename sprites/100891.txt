@@ -1,1 +1,1 @@
-stillFullWine 0 -2 -4
+chest 0 4 1
